@@ -1,3 +1,5 @@
+<img width="870" height="504" alt="image" src="https://github.com/user-attachments/assets/e2450aa3-9745-4b13-a794-67a19109dae6" />
+
 # Nector Smart Contract
 Nector smart contract implementation — a deterministic escrow state machine handling funding, delivery, disputes, and timeouts. Built in Rust and TypeScript, and this is the exact same smart contract used in production on Nector.
 
