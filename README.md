@@ -1,4 +1,4 @@
-<img width="1280" height="1280" alt="unnamed" src="https://github.com/user-attachments/assets/a3694c7c-6b68-4749-a6f8-83afbed3bd14" />
+<img width="200" height="200" alt="unnamed" src="https://github.com/user-attachments/assets/a3694c7c-6b68-4749-a6f8-83afbed3bd14" />
 
 # Nector
 
