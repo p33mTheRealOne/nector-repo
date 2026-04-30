@@ -5,3 +5,4 @@
 Get rewarded $1,000 for building an open-source project using Nector Mini or the Nector Smart Contract. Develop innovative escrow-powered applications, share your work publicly, and contribute to the future of trustless online transactions.
 
 ## Coming Soon
+https://www.nector.chat/docs/nector1k
