@@ -103,3 +103,7 @@ node --version
 yarn --version
 solana --version
 anchor --version
+```
+
+## Test
+https://github.com/p33mTheRealOne/nector-repo/blob/main/bots/timeout/(0)%20setup.txt
