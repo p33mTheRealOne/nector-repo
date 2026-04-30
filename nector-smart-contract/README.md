@@ -101,7 +101,7 @@ anchor deploy
 
 ### Test
 
-https://github.com/p33mTheRealOne/nector-smart-contract/tree/main/tests/how_to_use
+https://github.com/p33mTheRealOne/nector-repo/tree/main/nector-smart-contract/tests/how_to_use
 
 # Learn more:
 https://nector.chat/docs
