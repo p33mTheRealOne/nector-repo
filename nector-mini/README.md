@@ -1,3 +1,6 @@
+<img width="871" height="481" alt="image" src="https://github.com/user-attachments/assets/a7bed8ce-a2e7-46f3-bbd9-81f300d6afec" />
+
+
 # Nector Mini
 Nector Mini — open-source code from Nector designed for developers to build and extend escrow-powered applications, with ready-to-use web and keeper bots
 
