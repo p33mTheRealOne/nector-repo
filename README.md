@@ -396,13 +396,21 @@ Part of penalties from disputes and timeout violations goes to treasury
 
 # Demo
 
+## Demo video
+
+https://youtu.be/KsO4Q83hQ1A
+
+## Pitch Video
+
+https://youtu.be/1aEHnQGbPmQ
+
 ## Documentation
 
 [https://www.nector.chat/docs/introduction](https://www.nector.chat/docs/introduction)
 
 ## GitHub
 
-[https://github.com/p33mTheRealOne/Nector_repo](https://github.com/p33mTheRealOne/Nector_repo)
+https://github.com/p33mTheRealOne/nector-repo
 
 ---
 
