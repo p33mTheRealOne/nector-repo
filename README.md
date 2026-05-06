@@ -332,9 +332,10 @@ Single Anchor program handles:
 # Repository Structure
 
 ```text
-/idl   → Anchor smart contracts
-/bots               → Keeper timeout trigger bot
-/app          → Main web app
+/Nector1K              → Nector1K Description
+/bots                  → Keeper timeout trigger bot
+/nector-mini           → Devoloper starter kit
+/nector-smart-contract → Nector production smart contract
 ```
 
 ---
